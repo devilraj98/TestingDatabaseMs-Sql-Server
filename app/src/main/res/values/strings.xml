@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MySQL server Testing</string>
+    <string name="sql">sql</string>
+</resources>
